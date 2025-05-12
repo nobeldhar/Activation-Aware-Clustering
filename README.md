@@ -1,6 +1,5 @@
 
 
-```markdown
 # Euro-Par 2025 Artifact Overview  
 **Title:** A Sparsity Predicting Approach for Large Language Models via Activation Pattern Clustering  
 **Conference:** Euro-Par 2025 – European Conference on Parallel and Distributed Computing  
